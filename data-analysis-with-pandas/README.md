@@ -17,3 +17,11 @@ In this hands-on workshop, learners will practice importing, tidying, exploring,
 [pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 [pandas video playlist by Data School](https://github.com/justmarkham/pandas-videos)
+
+
+Are you coming from R? Here are some helpful ways to think about moving from R to pandas:
+
+[Python vs R (more helpful than advesarial!)](https://www.dataquest.io/blog/python-vs-r/)
+
+[Comparison of pandas and R functionality in pandas documentation](
+https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html)
