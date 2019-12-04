@@ -22,3 +22,7 @@ Please note the workbook for today are loosely based on the following two repos:
 [Andreas Müller's Introduction to Machine learning with Python workshop](https://github.com/amueller/ml-workshop-1-of-4)
 
 Both are great resources for further exploration! Also consider Müller's [supervised learning notebook](https://github.com/amueller/introduction_to_ml_with_python/blob/master/02-supervised-learning.ipynb) for a more granual exploration of KNN.
+
+An excellent intro to thinking of classifier testing and validation: [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+
+Coming from R? Here's a fun and spot-on comparison of data science tasks in both languages: [Python vs R: Head to Head Analysis](https://www.dataquest.io/blog/python-vs-r/)
