@@ -10,7 +10,7 @@ In this hands-on workshop, learners will practice importing, tidying, exploring,
 
 [Load workshop notebook in Google Colab (first half of session)](https://colab.research.google.com/github/arcus/education-materials/blob/master/data-analysis-with-pandas/pandas-tabular-workshop.ipynb)
 
-[Load self-guided ouline notebook in Google Colab (second half of session)](https://colab.research.google.com/github/arcus/education-materials/blob/master/data-analysis-with-pandas/pandas-tabular-outline.ipynb)
+[Load self-guided ouline notebook in Google Colab (second half of session)](https://colab.research.google.com/github/arcus/education-materials/blob/master/data-analysis-with-pandas/pandas_tabular_practice_outline.ipynb)
 
 ## Further resources
 
