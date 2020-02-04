@@ -25,4 +25,5 @@ If you'd like to implement a new training pipeline on your own, consider buildin
 
  ## Further Resources
 
- [Jake VanderPlas' Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+SVM and PCA notebooks from [Jake VanderPlas' Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (modified for compatibility with most recent scikit-learn API.) Take a look online!
