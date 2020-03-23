@@ -16,6 +16,8 @@ Google Colab is able to ingest a notebook file (*.ipynb) and run a copy within y
 
 ## Further resources
 
+Keep studying with this [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
 Please note the workbook for today are loosely based on the following two repos:
 
 [Jake Vanderplas' Scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial/)
